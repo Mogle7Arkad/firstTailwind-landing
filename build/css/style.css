@@ -1003,6 +1003,10 @@ video {
     gap: 0.5rem;
   }
 
+  .sm\:scroll-smooth {
+    scroll-behavior: smooth;
+  }
+
   .sm\:text-left {
     text-align: left;
   }
