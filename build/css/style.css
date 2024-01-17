@@ -1046,6 +1046,18 @@ video {
   }
 }
 
+@media (min-aspect-ratio: 3/2) {
+  .widescreen\:section-min-height{
+    min-height: calc(10vh - 68px);
+  }
+}
+
+@media (min-aspect-ratio: 1/2) {
+  .tallscreen\:section-min-height{
+    min-height: calc(10vh - 68px);
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   .dark\:border-none {
     border-style: none;
