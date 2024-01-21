@@ -7,6 +7,7 @@ This is a single-page website project showcasing delicious cakes. The project is
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
@@ -35,6 +36,29 @@ To get a copy of this project up and running on your local machine, follow these
 3. Install dependencies: npm install
 4. Start the development server: npm run dev
 5. Open liveserver.
+
+## Screenshots
+
+### Dashboard
+The below screenshot shows the dashboard of the app, containing the header/navigation bar and the hero section of the app. The first screenshot shows it on a large screen while the second and third screenshots shows the app responsive state to smaller screen sizes
+
+![](./build/assets/hero.png)
+
+![](./build/assets/responsivehero.png)
+
+![](./build/assets/dropdownmenu.png)
+
+### Body
+The below screenshots shows selected aspect of the body of the app on a large screen and on a smaller screen respectively
+
+![](./build/assets/body.png)
+
+![](./build/assets/responsivebody.png)
+
+### Footer
+The below screenshots also shows the footer of the app.
+
+![](./build/assets/footer.png)
 
 ## Usage
 
